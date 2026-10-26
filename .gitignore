@@ -1,0 +1,58 @@
+.DS_Store
+node_modules
+dist
+package.json
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+log/*.log
+logs/*.log.*
+
+# Editor directories and files
+*~
+.cache
+# tags
+GPATH
+GRTAGS
+GSYMS
+GTAGS
+TAGS
+# documents
+*/.asciidoctor
+main.adoc
+readme.adoc
+docs/html
+docs/doxygen_sqlite3.db
+docs/latex
+Doxyfile
+# Intermediate file
+*.i
+*.app
+*.moc
+*.obj
+*.o
+*.hex
+
+# lib
+*.dll
+*.so.*
+*.so
+*.a
+
+# executable
+a.out
+
+# projects
+version.h
+build/
+dist/
+seeds/
+.ccls_root
+.ccls-cache
+compile_commands.json
+3rd/tester
