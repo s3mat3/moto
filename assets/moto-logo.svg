@@ -16,8 +16,44 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">Moto logo</title>
   <!-- This logo is licensed under CC-BY-4.0
 	see LICENSE-LOGO file -->
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:description>A logo combining the Japanese Kanji 「基」, the word MOTO, and C++.
+The design represents a Modular Origin for TOols  a project forward.
+				</dc:description>
+        <dc:creator>
+					s3mat3
+					<cc:Agent>
+						<dc:title>s3mat3</dc:title>
+					</cc:Agent>
+				</dc:creator>
+        <dc:date>2026-10-29</dc:date>
+        <dc:title>Moto logo</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
   <defs
      id="defs4">
     <inkscape:path-effect
@@ -78,19 +114,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="15.109092"
-     inkscape:cx="27.499999"
-     inkscape:cy="27.499999"
-     inkscape:window-width="1916"
+     inkscape:cx="27.499998"
+     inkscape:cy="27.433813"
+     inkscape:window-width="956"
      inkscape:window-height="1040"
-     inkscape:window-x="1366"
+     inkscape:window-x="2326"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
      showguides="true" />
-  <title
-     id="title">Logo for MOTO 「基」</title>
-  <desc
-     id="desc">Moto project logo</desc>
   <g
      id="g1"
      transform="scale(0.10742187)">
@@ -759,13 +791,4 @@
       </g>
     </g>
   </g>
-  <metadata
-     id="metadata4">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:title>Moto project comes from「基」</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
 </svg>
