@@ -4,6 +4,13 @@ The name **Moto** comes from the Japanese Kanji *"基"*, meaning the "origin" or
 
 **Moto**: **M**odular **O**rigin for **To**ols  A header-only C++20 library that provides the essential building blocks for embedded frameworks, like the motor that drives your project forward.
 
+## License
+
+- **Library source code**:
+  - licensed under the MIT License.
+- **Moto logo**:
+  - licensed under CC BY 4.0.
+
 ## Getting and building
 
 ``` cmd
